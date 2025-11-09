@@ -5,7 +5,7 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 I’m a curious and self-driven learner who loves exploring how systems work from code to deployment.  
 I aim to bridge the gap between **software development** and **infrastructure automation** — building scalable, secure, and efficient systems.  
 
