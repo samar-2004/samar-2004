@@ -40,12 +40,6 @@ I aim to bridge the gap between **software development** and **infrastructure au
 
 ---
 
-### 📈 GitHub Stats
-![Samar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samar-2004&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samar-2004&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 - 📧 **Email:** [samarjunaid1994@gmail.com](mailto:samarjunaid1994@gmail.com)  
 - 💼 **LinkedIn:** [www.linkedin.com/in/muhammad-samar-junaid-b955121bb](https://www.linkedin.com/in/muhammad-samar-junaid-b955121bb)
