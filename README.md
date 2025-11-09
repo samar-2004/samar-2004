@@ -9,7 +9,7 @@
 I’m a curious and self-driven learner who loves exploring how systems work from code to deployment.  
 I aim to bridge the gap between **software development** and **infrastructure automation** — building scalable, secure, and efficient systems.  
 
-🌱 Currently learning:
+Currently learning:
 - Kubernetes, Docker, and CI/CD pipelines  
 - Advanced React and Node.js development  
 - Cloud technologies (AWS, GCP)  
@@ -46,10 +46,10 @@ I aim to bridge the gap between **software development** and **infrastructure au
 ---
 
 ### 🏆 Featured Goals
-- ✅ Build production-grade CI/CD pipelines  
-- ✅ Contribute to open-source DevOps or Web projects  
-- 🚀 Deploy scalable MERN applications on cloud platforms  
-- 📘 Continue mastering **DevOps tools and Web frameworks**
+- Build production-grade CI/CD pipelines  
+- Contribute to open-source DevOps or Web projects  
+- Deploy scalable MERN applications on cloud platforms  
+- Continue mastering **DevOps tools and Web frameworks**
 
 ---
 
