@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Samar Junaid
+# Hi, I'm Muhammad Samar Junaid
 
 🎓 **7th Semester BS Software Engineering Student** at **FAST NUCES, Lahore , Pakistan**  
 💼 Aspiring **DevOps Engineer** | Passionate **Web Developer** | Tech Enthusiast   
